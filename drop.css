@@ -1,0 +1,47 @@
+
+div.lightgreybg {
+  background-color:lightgrey;
+}
+
+div.whitebg {
+  background-color:white;
+}
+
+div.drop-field {
+  cursor:pointer;
+  width:inherit;
+  height:inherit;
+  text-align:center;
+  color:lightgrey;
+  box-shadow:0 0 6px grey;
+  border-radius:3px;
+  background-size:cover;
+  background: white;
+  overflow:hidden;
+  margin:0 auto;
+}
+
+form.drop-form {
+  margin:10px;
+  position:relative;
+}
+
+img.drop-button {
+  opacity:0.8;
+  cursor:pointer;
+}
+
+img.drop-button:hover {
+  opacity:1;
+}
+
+div.multi-button-container {
+  position: absolute;
+  left: 390px;
+  cursor: pointer;
+  opacity:0.8;
+}
+
+div.multi-button-container:hover {
+  opacity:1;
+}
